@@ -41,7 +41,7 @@ Download the release version of Kunpeng Accelerator Engine Driver from:
 <https://github.com/kunpengcompute/KAEdriver>
 
 
-Note: To build the Kunpeng Accelerator Engine Driver, install the `kernel-devel` package first.
+Note: To build the Kunpeng Accelerator Engine Driver, install the `kernel-devel` on CentOS or `linux-kernel-headers`,`kernel-package` on Ubuntu first.
 
 Firstly, install the accelerator driver:
 
